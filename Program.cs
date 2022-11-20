@@ -16,8 +16,6 @@ int CountMassThan(string[] input, int n) {
 
     return count;
 }
-string[] result = FindMassThan(array, 3);
-Console.WriteLine($"[{string.Join(", ", array)}] -> [{string.Join(", ", result)}]");
 
 string[] FindMassThan(string[] input, int n) {
     string[] output = new string[CountMassThan(input, n)];
@@ -31,4 +29,6 @@ string[] FindMassThan(string[] input, int n) {
 
     return output;
     }
+string[] result = FindMassThan(array, 3);
+Console.WriteLine($"[{string.Join(", ", array)}] -> выводим результат [{string.Join(", ", result)}]");
 
