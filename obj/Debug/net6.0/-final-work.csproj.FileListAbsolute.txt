@@ -1,0 +1,15 @@
+G:\YandexDisk\Geek\ВВедение в программирование\END\-final-work\obj\Debug\net6.0\-final-work.csproj.AssemblyReference.cache
+G:\YandexDisk\Geek\ВВедение в программирование\END\-final-work\obj\Debug\net6.0\-final-work.GeneratedMSBuildEditorConfig.editorconfig
+G:\YandexDisk\Geek\ВВедение в программирование\END\-final-work\obj\Debug\net6.0\-final-work.AssemblyInfoInputs.cache
+G:\YandexDisk\Geek\ВВедение в программирование\END\-final-work\obj\Debug\net6.0\-final-work.AssemblyInfo.cs
+G:\YandexDisk\Geek\ВВедение в программирование\END\-final-work\obj\Debug\net6.0\-final-work.csproj.CoreCompileInputs.cache
+G:\YandexDisk\Geek\ВВедение в программирование\END\-final-work\bin\Debug\net6.0\-final-work.exe
+G:\YandexDisk\Geek\ВВедение в программирование\END\-final-work\bin\Debug\net6.0\-final-work.deps.json
+G:\YandexDisk\Geek\ВВедение в программирование\END\-final-work\bin\Debug\net6.0\-final-work.runtimeconfig.json
+G:\YandexDisk\Geek\ВВедение в программирование\END\-final-work\bin\Debug\net6.0\-final-work.dll
+G:\YandexDisk\Geek\ВВедение в программирование\END\-final-work\bin\Debug\net6.0\-final-work.pdb
+G:\YandexDisk\Geek\ВВедение в программирование\END\-final-work\obj\Debug\net6.0\-final-work.dll
+G:\YandexDisk\Geek\ВВедение в программирование\END\-final-work\obj\Debug\net6.0\refint\-final-work.dll
+G:\YandexDisk\Geek\ВВедение в программирование\END\-final-work\obj\Debug\net6.0\-final-work.pdb
+G:\YandexDisk\Geek\ВВедение в программирование\END\-final-work\obj\Debug\net6.0\-final-work.genruntimeconfig.cache
+G:\YandexDisk\Geek\ВВедение в программирование\END\-final-work\obj\Debug\net6.0\ref\-final-work.dll

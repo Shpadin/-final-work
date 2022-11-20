@@ -1,2 +1,6 @@
-﻿// See https://aka.ms/new-console-template for more information
-Console.WriteLine("Hello, World!");
+﻿
+string[] array = AskArray();
+string[] AskArray() {
+    Console.Write("Введите массивы отделяя их пробелом: ");
+    return Console.ReadLine().Split(" ");
+}
